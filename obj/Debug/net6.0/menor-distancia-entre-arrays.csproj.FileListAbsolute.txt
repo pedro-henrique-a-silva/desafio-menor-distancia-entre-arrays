@@ -1,0 +1,15 @@
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.csproj.AssemblyReference.cache
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.AssemblyInfoInputs.cache
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.AssemblyInfo.cs
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.csproj.CoreCompileInputs.cache
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/menor-distancia-entre-arrays
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/menor-distancia-entre-arrays.deps.json
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/menor-distancia-entre-arrays.runtimeconfig.json
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/menor-distancia-entre-arrays.dll
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/ref/menor-distancia-entre-arrays.dll
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/bin/Debug/net6.0/menor-distancia-entre-arrays.pdb
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.dll
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/ref/menor-distancia-entre-arrays.dll
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.pdb
+/home/mint/Documentos/projetos/C#/menor-distancia-entre-arrays/obj/Debug/net6.0/menor-distancia-entre-arrays.genruntimeconfig.cache
