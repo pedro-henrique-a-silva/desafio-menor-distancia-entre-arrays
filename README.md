@@ -8,10 +8,11 @@ Dado dois arrays de inteiros, o desafio é encontrar a menor distância absoluta
 
 ## Resolução
 
-A solução para o desafio envolveu as seguintes etapas:
+A solução para o desafio envolve as seguintes etapas:
 
 1. **Ordenação dos Arrays**:
-   - Utilizar o algoritmo de ordenação **Selection Sort** para ordenar ambos os arrays. Embora este algoritmo não seja o mais eficiente, ele é simples e adequado para esta tarefa.
+   - Utiliza-se o algoritmo de ordenação **Insertion Sort** para ordenar ambos os arrays. Este algoritmo é eficiente para arrays pequenos e simples, facilitando a ordenação.
 
 2. **Comparação dos Arrays**:
    - Após a ordenação, os arrays são comparados para encontrar a menor distância entre os elementos. A comparação é feita de forma a garantir que a menor distância possível entre qualquer par de elementos de diferentes arrays seja encontrada.
+
